@@ -5,31 +5,6 @@ It supports **Deposit**, **Withdraw**, **Balance Check**, **OTP generation**, an
 
 ---
 
-## 📂 Project Structure
-
-BankingApp/
-│
-├── src/
-│ ├── core/ # Core banking logic
-│ │ ├── BankAccount.java
-│ │ ├── Transaction.java
-│ │ └── BankingSystem.java
-│ │
-│ ├── gui/ # GUI components
-│ │ └── BankingGUI.java
-│ │
-│ ├── utils/ # Utility classes
-│ │ ├── OTPGenerator.java
-│ │ └── DataStore.java
-│ │
-│ └── main/ # Application entry point
-│ └── Main.java
-│
-└── data/
-└── transactions.txt
-
----
-
 ## ✨ Features
 - **PIN-based security** for deposit and withdrawal.
 - **Deposit and Withdraw** with real-time balance updates.
@@ -72,4 +47,5 @@ This project is open-source and free to use.
 
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e173d1ce-fa98-40ff-aa9c-941d0a7eca38" />
+
 
